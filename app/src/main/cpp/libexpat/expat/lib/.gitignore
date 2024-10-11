@@ -1,6 +1,5 @@
 .libs
 *.lo
-expat.h
 Debug
 Debug-w
 Release
