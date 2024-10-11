@@ -20,3 +20,4 @@ app/src/main/assets/timestamp.raw
 resource/pak
 resource/frag.spv
 resource/vert.spv
+app/.cxx/

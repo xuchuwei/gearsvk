@@ -28,6 +28,7 @@ Clone the GearsVK project https://github.com/jeffboody/gearsvk.
 
 	git clone git@github.com:jeffboody/gearsvk.git
 	git checkout -b main origin/main
+    git submodule init
 	git submodule update
 
 Linux
